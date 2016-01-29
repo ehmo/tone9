@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="woman" language="en-gb">Welcome in the heaven!</Say>
+    <Play>https://raw.githubusercontent.com/ehmo/tone9/master/dtmf-9.mp3</Play>
+</Response>
